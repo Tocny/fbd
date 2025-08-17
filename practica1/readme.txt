@@ -2,6 +2,7 @@ Nombre del equipo: Hijos del vudu
 
 Numeros de cuentas y nombres de los integrantes:
 Jose Luis Calva García, 321166584
+Marco Antonio Rubio Resendiz, 320209763
 
 Descripción del poryecto:
 Un programa que lee un arhivo con al menos 10 registros de vuelos, donde solo se
